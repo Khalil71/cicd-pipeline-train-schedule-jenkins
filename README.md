@@ -1,6 +1,6 @@
 # cicd-pipeline-train-schedule-jenkins
 
-This is a simple train schedule app written using nodejs.
+This is a simple train schedule app written with nodejs.
 
 ## Running the app
 
